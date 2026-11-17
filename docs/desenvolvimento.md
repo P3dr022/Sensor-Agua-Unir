@@ -178,52 +178,7 @@ Os experimentos deverão investigar:
 
 Cada experimento deverá registrar metodologia, condições, número de amostras, resultados e limitações.
 
-## 7. Modelo para novos registros
 
-### Registro XXX — Nome da atividade
-
-**Data:** DD/MM/AAAA  
-**Responsável:**  
-**Status:** Planejado / Em andamento / Concluído / Bloqueado
-
-**Objetivo**
-
-Descrever a finalidade da atividade.
-
-**Implementação**
-
-Descrever código, componentes, ferramentas e configurações utilizadas.
-
-**Procedimentos de teste**
-
-Registrar como a implementação foi validada.
-
-**Resultados**
-
-Apresentar os dados obtidos, sem inferir resultados não medidos.
-
-**Dificuldades**
-
-Registrar erros, limitações e possíveis causas.
-
-**Decisões técnicas**
-
-Explicar as soluções escolhidas e suas justificativas.
-
-**Evidências**
-
-Relacionar commits, capturas de tela, logs e arquivos de experimentos.
-
-**Próximos passos**
-
-Definir a continuidade do desenvolvimento.
-
----
-
-## 8. Controle de alterações
-
-| Data | Versão | Alteração |
-|---|---|---|
 | 17/11/2026 | 0.1 | Criação do diário técnico e registro do planejamento inicial |
 
 ---
